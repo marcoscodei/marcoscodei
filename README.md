@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Marcos Boni!
+# 👋 Olá, eu sou o Marcos :)
 
 <div align="center">
 
