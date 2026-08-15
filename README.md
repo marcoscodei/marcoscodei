@@ -15,26 +15,6 @@
 
 ## 🚀 Sobre mim
 
-```ts
-const marcos = {
-  role: "Full Stack Developer",
-  location: "Brasil 🇧🇷",
-  learning: "Autodidata",
-
-  focus: [
-    "Web Development",
-    "Frontend",
-    "Backend",
-    "APIs",
-    "UI/UX",
-    "Creative Coding",
-    "Game Development"
-  ],
-
-  mindset: "Build. Learn. Improve. Repeat."
-};
-```
-
 Sou um **desenvolvedor Full Stack autodidata**, apaixonado por tecnologia e pela criação de produtos digitais.
 
 Venho explorando diferentes áreas do desenvolvimento, desde **Frontend e UI/UX até Backend, APIs, bancos de dados, aplicações em tempo real e desenvolvimento de jogos**.
